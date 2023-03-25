@@ -1,0 +1,43 @@
+.parent{
+    display: flex;
+    width: 100%;
+    
+    flex-wrap: wrap;
+    justify-content: center
+}
+
+.card{
+    width: 100px;
+    height: 100px;
+    border: 2px solid;
+    background-color: aquamarine;
+    margin: 10px;
+}
+
+p{
+    color: blue;
+}
+
+button{
+    background-color: #eee;
+}
+
+td {
+    padding: 10px;
+  
+}
+
+table,th,td{
+    border: 1px solid
+}
+table{
+    margin: auto;
+}
+
+a{
+    text-decoration: none;
+}
+
+body{
+    text-align: center;
+}
